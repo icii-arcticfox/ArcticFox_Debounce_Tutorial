@@ -1,0 +1,42 @@
+{
+    "VSCodeWorkspaceFile": "ArcticFox_Debounce_Tutorial.code-workspace",
+    "ArcticFoxVersion": "0.2.1.159",
+    "ProjectName": "ArcticFox_Debounce_Tutorial",
+    "GeneratedLineIdentifier": "<>",
+    "VerilogFolders": [
+        "/workspaces/ArcticFox_Debounce_Tutorial/Verilog/"
+    ],
+    "Tutorials": [
+        [
+            "Step1_Clock",
+            "Add clock automation, common first step"
+        ],
+        [
+            "Step2_Reset",
+            "Add reset automation, common second step"
+        ],
+        [
+            "Step3_RisingEdge",
+            "Detect the rising edge of a signal"
+        ],
+        [
+            "Step4_Counter",
+            "Create a counter using an automation"
+        ],
+        [
+            "Step5_TestModule",
+            "Instatiate the module to test, which updates according to changes"
+        ],
+        [
+            "Step6_PressButtonInTest",
+            "Complete the tutorial by pressing the button in simulation"
+        ],
+        [
+            "Step7_Conclusion",
+            "See the code without explainer text"
+        ]
+    ],
+    "PathToVivadoProject": null,
+    "SectionNames" : "Tutorials",
+    "SectionSubTitles" : " Select tutorial and press Switch"
+}
