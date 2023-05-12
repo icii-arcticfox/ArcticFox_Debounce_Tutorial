@@ -39,7 +39,7 @@ wire risingButton;
 //***reached, the counter will be set back to 0. You want to set start to be the 
 //***name of the signal that will trigger the counter once the signal is high. 
 //***https://tinyurl.com/af-counter
-/*[Counter --count string:countTo --start string:startSignal​​]*/
+/*[Counter --count 128 --start risingButton]*/ 
 reg [10:0] debounceCounter;
 
 //The following line is given to you. We want the debounced signal to be high
